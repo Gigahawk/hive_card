@@ -1,0 +1,3 @@
+[submodule "glyphinator"]
+	path = glyphinator
+	url = git@github.com:Gigahawk/glyphinator.git
